@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kvk1920/code/study/PT/Hometask/index.h
+vector
+-
+iostream
+-
+
+/home/kvk1920/code/study/PT/Hometask/main.cpp
+index.h
+/home/kvk1920/code/study/PT/Hometask/index.h
+
